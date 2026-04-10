@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is demo project using node by @PranjalKumar09, 
+          This is demo project using node by @shukla-pranjal, 
 
           Rollout , now this is version 4
         </p>
